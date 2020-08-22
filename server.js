@@ -2,6 +2,8 @@
 const express = require("express")
 const server = express()
 
+
+
 //Configurar o servidor para apresentar arquivos extras, style.css e scripts.js
 server.use(express.static('public'))
 

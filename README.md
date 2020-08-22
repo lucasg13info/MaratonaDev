@@ -24,3 +24,6 @@ Se você precisar de ajuda para fazer um clone, acesse esse tutorial [tutorial a
 4. Rode `npm i` para instalar as dependências do projeto;
 5. Rode `npm start` para iniciar o servidor de desenvolvimento.
 6. No navegador chame "localhost:3000" para executar o servidor. 
+
+
+
